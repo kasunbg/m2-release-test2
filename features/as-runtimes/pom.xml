@@ -25,7 +25,7 @@
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>as-runtimes-feature</artifactId>
+    <artifactId>as-runtimes-feature2</artifactId>
     <packaging>pom</packaging>
     <name>WSO2 Carbon - Application Server Runtime Environments Feature</name>
     <url>http://wso2.org</url>
