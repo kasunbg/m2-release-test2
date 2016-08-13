@@ -19,9 +19,9 @@
     </modules>
 
     <scm>
-        <url>https://github.com/kasunbg/carbon-deployment.git</url>
-        <developerConnection>scm:git:https://github.com/kasunbg/carbon-deployment.git</developerConnection>
-        <connection>scm:git:https://github.com/kasunbg/carbon-deployment.git</connection>
+        <url>https://github.com/kasunbg/test.git</url>
+        <developerConnection>scm:git:https://github.com/kasunbg/test.git</developerConnection>
+        <connection>scm:git:https://github.com/kasunbg/test.git</connection>
         <tag>HEAD</tag>
     </scm>
 
