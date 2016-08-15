@@ -23,7 +23,7 @@
         <url>https://github.com/kasunbg/test.git</url>
         <developerConnection>scm:git:https://github.com/kasunbg/test.git</developerConnection>
         <connection>scm:git:https://github.com/kasunbg/test.git</connection>
-        <tag>v5.0.110</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencyManagement>
