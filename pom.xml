@@ -16,7 +16,7 @@
 
     <modules>
         <module>components/webapp-mgt/org.wso2.carbon.cxf.ext</module>
-        <!--<module>features/as-runtimes</module> PR TESTER 1-->
+        <!--<module>features/as-runtimes</module> PR TESTER 2-->
     </modules>
 
     <scm>
