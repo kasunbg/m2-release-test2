@@ -6,7 +6,7 @@
         <groupId>org.wso2.carbon.deployment</groupId>
         <artifactId>carbon-deployment</artifactId>
         <relativePath>../../../pom.xml</relativePath>
-        <version>5.0.546</version>
+        <version>5.0.547-SNAPSHOT</version>
     </parent>
 
 
