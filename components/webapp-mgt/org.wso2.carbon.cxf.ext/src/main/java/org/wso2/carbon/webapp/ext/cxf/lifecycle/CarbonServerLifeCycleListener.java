@@ -25,10 +25,12 @@ import org.wso2.carbon.webapp.ext.cxf.interceptor.HostNameSupportedWSDLGetInterc
 
 /**
  * Implementation of ServerLifeCycleListener interface. Custom CXF extensions can be added here. Currently perform following tasks.
- * <p/>
+ * <p>
  * 1. Load the configuration from carbon.xml to be used in future.
- * <p/>
+ * </p>
+ * <p>
  * 2. Scan the registered interceptors and replace WSDLGetInterceptor by HostNameSupportedWSDLGetInterceptor if it available on Classpath.
+ * </p>
  */
 
 public class CarbonServerLifeCycleListener implements ServerLifeCycleListener {
