@@ -6,7 +6,7 @@
         <groupId>org.kasung.test</groupId>
         <artifactId>carbon-deployment</artifactId>
         <relativePath>../../../pom.xml</relativePath>
-        <version>5.0.2019</version>
+        <version>5.0.2020-SNAPSHOT</version>
     </parent>
 
 
