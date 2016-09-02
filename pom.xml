@@ -3,7 +3,7 @@
 
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org.wso2.carbon.deployment</groupId>
+    <groupId>org.kasung.test</groupId>
     <artifactId>carbon-deployment</artifactId>
     <packaging>pom</packaging>
     <version>5.0.2018</version>
