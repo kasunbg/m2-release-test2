@@ -3,7 +3,7 @@
 
 
     <parent>
-        <groupId>org.wso2.carbon.deployment</groupId>
+        <groupId>org.kasung.test</groupId>
         <artifactId>carbon-deployment</artifactId>
         <relativePath>../../../pom.xml</relativePath>
         <version>5.0.2018</version>
