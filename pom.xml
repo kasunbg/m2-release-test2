@@ -25,7 +25,7 @@
         <url>https://github.com/kasunbg/test.git</url>
         <developerConnection>scm:git:https://github.com/kasunbg/m2-release-test.git</developerConnection>
         <connection>scm:git:https://github.com/kasunbg/m2-release-test.git</connection>
-        <tag>v5.0.2018</tag>
+        <tag>v5.0.2020</tag>
     </scm>
 
     <dependencyManagement>
@@ -1316,7 +1316,7 @@
         <orbit.version.openid4java>0.9.6.wso2v2</orbit.version.openid4java>
 
         <!-- Carbon Deployment version-->
-        <carbon.deployment.version>5.0.2019-SNAPSHOT</carbon.deployment.version>
+        <carbon.deployment.version>5.0.2021-SNAPSHOT</carbon.deployment.version>
         <carbon.deployment.exp.pkg.version>${carbon.deployment.version}</carbon.deployment.exp.pkg.version>
         <carbon.deployment.imp.pkg.version>[4.5.0, 4.6.0)</carbon.deployment.imp.pkg.version>
 
